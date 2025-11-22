@@ -5,7 +5,7 @@ from BlynkTimer import BlynkTimer
 from w1thermsensor import W1ThermSensor
 sensor = W1ThermSensor()
 
-BLYNK_AUTH_TOKEN ='mIoXKdO4PIqCvNDFGRQfegO7HFnGMt5c'
+BLYNK_AUTH_TOKEN ='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 GPIO.setmode(GPIO.BCM)
 led1 = 14
